@@ -3,33 +3,31 @@
 
 
 ## 🚀 About Me
-I'm a full stack developer...
+I'm a full-stack software engineer
 
 
 ## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://katherineoelsner.com/)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
-[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
+
 
 
 ## Other Common Github Profile Sections
 👩‍💻 I'm currently working on...
 
-🧠 I'm currently learning...
+🧠 I'm currently learning Blockchain Development
 
 👯‍♀️ I'm looking to collaborate on...
 
 🤔 I'm looking for help with...
 
-💬 Ask me about...
+💬 Ask me about Python and C
 
-📫 How to reach me...
+📫 How to reach me...favourattah80@gmail.com
 
-😄 Pronouns...
+😄 Pronouns...(She/Her)
 
-⚡️ Fun fact...
+⚡️ Fun fact...Music is life
 
 
 ## 🛠 Skills
-Javascript, HTML, CSS...
+Python ,C, Javascript, HTML, CSS
 
